@@ -1,6 +1,6 @@
-package Lesson2;
+package Lesson2.VendingMachine;
 
-import Lesson2.model.Product;
+import Lesson2.VendingMachine.model.Product;
 
 import java.util.List;
 

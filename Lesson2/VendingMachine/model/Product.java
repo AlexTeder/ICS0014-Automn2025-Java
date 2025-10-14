@@ -1,4 +1,4 @@
-package Lesson2.model;
+package Lesson2.VendingMachine.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
