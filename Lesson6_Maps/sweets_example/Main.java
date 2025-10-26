@@ -15,5 +15,15 @@ public class Main {
 
         System.out.println(sweetByLetter);
         System.out.println(sweetByLetter.get("C"));
+
+
+        Map<Integer, String> textNumbersByInt = Map.of(
+                1, "one",
+                2, "two",
+                3, "three",
+                4, "four"
+        );
+
+        System.out.println(textNumbersByInt);
     }
 }
