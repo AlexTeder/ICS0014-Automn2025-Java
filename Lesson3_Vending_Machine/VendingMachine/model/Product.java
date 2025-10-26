@@ -1,4 +1,4 @@
-package Lesson3.VendingMachine.model;
+package Lesson3_Vending_Machine.VendingMachine.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -20,7 +20,7 @@ public abstract class Product {
     @Override
     public String toString() {
         return String.format(
-                "Product{name='%s', brand='%s', price=%s, size=%s, sizeUnit='%s'}",
+                "%S {name='%s', brand='%s', price=%s, size=%s, sizeUnit='%s'}",
                 this.getClass().getSimpleName(), name, brand, price, size, sizeUnit);
     }
 }

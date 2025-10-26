@@ -1,6 +1,6 @@
-package Lesson3.VendingMachine.model.drink;
+package Lesson3_Vending_Machine.VendingMachine.model.drink;
 
-import Lesson3.VendingMachine.model.Product;
+import Lesson3_Vending_Machine.VendingMachine.model.Product;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor

@@ -1,4 +1,4 @@
-package Lesson3.examples;
+package Lesson3_Vending_Machine.examples;
 
 public class Bicycle extends Vehicle {
 

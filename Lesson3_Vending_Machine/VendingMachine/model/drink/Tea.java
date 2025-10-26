@@ -1,4 +1,4 @@
-package Lesson3.VendingMachine.model.drink;
+package Lesson3_Vending_Machine.VendingMachine.model.drink;
 
 import lombok.NoArgsConstructor;
 

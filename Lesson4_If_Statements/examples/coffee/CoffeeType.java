@@ -1,4 +1,4 @@
-package Lesson4.examples.coffee;
+package Lesson4_If_Statements.examples.coffee;
 
 public enum CoffeeType {
     CAPPUCCINO,
